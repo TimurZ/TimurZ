@@ -1,6 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurZ&count_private=true&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurZ&count_private=true&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **TimurZ/TimurZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
